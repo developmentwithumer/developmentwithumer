@@ -6,7 +6,7 @@ Coding has always been more than just a hobby for me—it's a passion that keeps
 
 ### 🚀 What I’m All About
 
-- **💻 Web Development:** I craft responsive, user-friendly websites and web applications using HTML/CSS, JavaScript, Python, Django, Flask, Bootstrap, Tailwind CSS, Node JS, Next, Express, React, MogoDB, Firebase, SQL and more. Building things that work well and look good is my jam!
+- **💻 Web Development:**  I craft responsive, user-friendly websites and web applications using HTML/CSS, JavaScript, TypeScript, Python with frameworks like Django, Flask, FastAPI, Next.JS, React.JS, Bootstrap, Tailwind CSS, and more. Building things that work well and look good is my jam!
   
 - **🔧 Problem Solver:** I enjoy the challenge of untangling complex problems and finding efficient, elegant solutions. Debugging and refining my code until it's just right is a big part of what I do.
 
